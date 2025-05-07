@@ -21,7 +21,7 @@ This project implements a relational database system for managing student record
 
 ## Entity-Relationship Diagram (ERD)
 Below is a link to the ERD for this database:
-[ERD Screenshot](#) *(Replace with a link to your ERD image or attach the image directly)*
+[https://ibb.co/k2VSN8Yq](#) 
 
 Alternatively, you can generate the ERD using a database visualization tool like MySQL Workbench or dbdiagram.io.
 

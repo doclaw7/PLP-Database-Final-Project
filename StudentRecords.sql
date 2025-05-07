@@ -1,7 +1,7 @@
 
 -- Creating a database Students records management database
-CREATE DATABASE StudentRecordsDB;
-USE StudentRecordsDB;
+CREATE DATABASE StudentRecordsDB1;
+USE StudentRecordsDB1;
 
 -- Creating different tables fot the database
 -- 1. DEPARTMENTS TABLE
